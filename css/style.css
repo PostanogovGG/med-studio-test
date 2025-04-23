@@ -238,7 +238,7 @@ button {
 }
 
 .studio__hero {
-    background-image: url("/img/main/background.jpg");
+    background-image: url("../img/main/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -699,7 +699,7 @@ button {
 }
 
 .studio__promo-sale {
-    background-image: url("/img/main/sale.png");
+    background-image: url("../img/main/sale.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -981,8 +981,6 @@ button {
    
 }
 
-
-
 @media (max-width: 768px) {
     .studio__tabs {
         width: 100%;
@@ -1069,7 +1067,6 @@ button {
     .studio__promo-video-play {
         max-width: 80px;
         max-height: 80px;
-    }
-  
+    } 
 }
 
